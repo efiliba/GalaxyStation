@@ -1,0 +1,8 @@
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\GalaxyStationContent.contentprojResolveAssemblyReference.cache
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\GalaxyStationContent.contentprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\GalaxyStationContent.contentprojResolveAssemblyReference.cache
+F:\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\GalaxyStationContent.contentprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Debug\GalaxyStationContent.contentprojResolveAssemblyReference.cache
+C:\GalaxyStation\GalaxyStationContent\obj\x86\Debug\GalaxyStationContent.contentprojResolveAssemblyReference.cache

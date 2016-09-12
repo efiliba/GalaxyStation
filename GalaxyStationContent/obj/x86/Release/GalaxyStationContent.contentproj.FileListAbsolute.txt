@@ -1,0 +1,2 @@
+C:\GalaxyStation\GalaxyStation\GalaxyStationContent\obj\x86\Release\GalaxyStationContent.contentprojResolveAssemblyReference.cache
+C:\GalaxyStation\GalaxyStationContent\obj\x86\Release\GalaxyStationContent.contentprojResolveAssemblyReference.cache

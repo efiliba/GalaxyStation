@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>WalkingDown.png</Source>
+      <Name>WalkingDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb</Output>
+      <Time>2013-01-19T00:20:56+11:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingLeft.png</Source>
+      <Name>WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb</Output>
+      <Time>2013-01-19T00:21:14+11:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingRight.png</Source>
+      <Name>WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb</Output>
+      <Time>2013-01-19T00:21:26+11:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingUp.png</Source>
+      <Name>WalkingUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb</Output>
+      <Time>2013-01-19T00:21:06+11:00</Time>
+    </Item>
+    <Item>
+      <Source>button.png</Source>
+      <Name>button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\button.xnb</Output>
+      <Time>2012-12-20T23:51:30+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\securityjumpsuit2.png</Source>
+      <Name>Items\securityjumpsuit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb</Output>
+      <Time>2012-08-23T20:56:34+10:00</Time>
+    </Item>
+    <Item>
+      <Source>basictileset.png</Source>
+      <Name>basictileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\basictileset.xnb</Output>
+      <Time>2014-07-21T10:54:47.9974954+10:00</Time>
+    </Item>
+    <Item>
+      <Source>wallsnormal.png</Source>
+      <Name>wallsnormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\wallsnormal.xnb</Output>
+      <Time>2013-01-26T07:00:02+11:00</Time>
+    </Item>
+    <Item>
+      <Source>walltops.png</Source>
+      <Name>walltops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\walltops.xnb</Output>
+      <Time>2013-09-29T22:56:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2013-10-12T18:09:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2014-07-18T08:08:15.3981224+10:00</Time>
+    </Item>
+    <Item>
+      <Source>beauty.mp3</Source>
+      <Name>beauty</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\beauty.xnb</Output>
+      <Extra>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\beauty.wma</Extra>
+      <Time>2014-07-18T08:24:04.3624001+10:00</Time>
+    </Item>
+    <Item>
+      <Source>spacework.mp3</Source>
+      <Name>spacework</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework.xnb</Output>
+      <Extra>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework.wma</Extra>
+      <Time>2014-07-19T17:18:39.5393008+10:00</Time>
+    </Item>
+    <Item>
+      <Source>spacework2.mp3</Source>
+      <Name>spacework2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework2.xnb</Output>
+      <Extra>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework2.wma</Extra>
+      <Time>2014-07-19T17:24:54.5077478+10:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\GalaxyStation - Copy (3) [Version]\GalaxyStationContent\</RootDirectory>
+      <LoggerRootDirectory>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\GalaxyStation - Copy (3) [Version]\GalaxyStationContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-05T14:13:49.3117277+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

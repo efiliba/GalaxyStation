@@ -1,0 +1,177 @@
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\walkingleft.xnb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\walkingright.xnb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\walkingup.xnb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.dll
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.pdb
+c:\users\eli\documents\visual studio 2010\Projects\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.xml
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.pdb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.xml
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+F:\Code\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\mainmenu.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+C:\Users\Eli\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+F:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+F:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\background.xnb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+C:\Users\Admin\Desktop\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\background.xnb
+F:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\background.xnb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+H:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+H:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+H:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\basictileset.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\wallsnormal.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\walltops.xnb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\background.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+C:\GalaxyStation\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\button.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\basictileset.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\wallsnormal.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\walltops.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\background.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\beauty.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\beauty.wma
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\spacework.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\spacework.wma
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\spacework2.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\spacework2.wma
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\button.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\basictileset.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\wallsnormal.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\walltops.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\background.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\beauty.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\spacework.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\spacework2.xnb
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\beauty.wma
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\spacework.wma
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\Content\spacework2.wma
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation - Copy (3)\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation - Copy (3)\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+C:\GalaxyStation - Copy (3)\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GalaxyStation - Copy (3)\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation - Copy (3)\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingDown.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingRight.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\WalkingUp.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\button.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\Items\securityjumpsuit2.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\basictileset.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\wallsnormal.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\walltops.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\background.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\MainMenu.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\beauty.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework2.xnb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\beauty.wma
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework.wma
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\Content\spacework2.wma
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\GalaxyStation.exe.config
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\bin\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\obj\x86\Debug\GalaxyStation.csprojResolveAssemblyReference.cache
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\obj\x86\Debug\GalaxyStation.exe
+C:\GalaxyStation - Copy (3) [Version]\GalaxyStation\obj\x86\Debug\GalaxyStation.pdb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\axe.xnb
+C:\GalaxyStation\GalaxyStation\bin\x86\Debug\Content\Items\square.xnb

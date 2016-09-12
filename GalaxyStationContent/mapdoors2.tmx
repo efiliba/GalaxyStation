@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="basictileset" tilewidth="64" tileheight="64">
+  <image source="basictileset.png" width="891" height="512"/>
+ </tileset>
+ <tileset firstgid="105" name="walls" tilewidth="64" tileheight="64">
+  <image source="walls.png" width="448" height="64"/>
+ </tileset>
+ <tileset firstgid="112" name="roofs" tilewidth="64" tileheight="64">
+  <image source="roofs.png" width="896" height="704"/>
+ </tileset>
+ <tileset firstgid="266" name="doors" tilewidth="64" tileheight="64">
+  <image source="doors.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="268" name="Doors" tilewidth="64" tileheight="100">
+  <image source="doors.png" width="64" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKwCAMRUF7Au9/W+mu2wihHzID2YsPMWsBAAAAAAAAAAAAAAAAAADw9VwMfd773YXRo1flXejRr9pj/3PMMap/hx699MiiRxb7bhY9suiRRY8segAAAAAAAAAAAAAAAAAAAAAAAADTHBrGAYs=
+  </data>
+ </layer>
+ <objectgroup name="Walls" width="100" height="100">
+  <object gid="105" x="2432" y="3328"/>
+  <object gid="106" x="2496" y="3328"/>
+  <object gid="106" x="2560" y="3328"/>
+  <object gid="106" x="2624" y="3328"/>
+  <object gid="106" x="2688" y="3328"/>
+  <object gid="106" x="2752" y="3328"/>
+  <object gid="106" x="2816" y="3328"/>
+  <object gid="106" x="2880" y="3328"/>
+  <object gid="106" x="2944" y="3328"/>
+  <object gid="106" x="3008" y="3328"/>
+  <object gid="106" x="3072" y="3328"/>
+  <object gid="106" x="3136" y="3328"/>
+  <object gid="107" x="3200" y="3328"/>
+  <object gid="111" x="3200" y="2944"/>
+  <object gid="109" x="2560" y="2624"/>
+  <object gid="109" x="2816" y="2624"/>
+  <object gid="109" x="2880" y="2624"/>
+  <object gid="109" x="2944" y="2624"/>
+  <object gid="109" x="3008" y="2624"/>
+  <object gid="109" x="3008" y="2624"/>
+  <object gid="109" x="3072" y="2624"/>
+  <object gid="110" x="3136" y="2624"/>
+  <object gid="108" x="2496" y="2624"/>
+  <object gid="110" x="2624" y="2624"/>
+  <object gid="108" x="2752" y="2624"/>
+  <object gid="111" x="3200" y="2880"/>
+  <object gid="111" x="3200" y="2816"/>
+  <object gid="111" x="3200" y="2752"/>
+  <object gid="111" x="3200" y="2688"/>
+  <object gid="111" x="3200" y="2624"/>
+  <object gid="111" x="3200" y="3264"/>
+  <object gid="111" x="3200" y="3200"/>
+  <object gid="111" x="3200" y="3136"/>
+  <object gid="111" x="3200" y="3072"/>
+  <object gid="111" x="2432" y="3264"/>
+  <object gid="111" x="2432" y="3200"/>
+  <object gid="111" x="2432" y="3136"/>
+  <object gid="111" x="2432" y="3072"/>
+  <object gid="111" x="2432" y="2944"/>
+  <object gid="111" x="2432" y="3008"/>
+  <object gid="111" x="2432" y="2880"/>
+  <object gid="111" x="2432" y="2816"/>
+  <object gid="111" x="2432" y="2752"/>
+  <object gid="111" x="2432" y="2688"/>
+ </objectgroup>
+ <objectgroup name="Roofs" width="100" height="100">
+  <object gid="116" x="3200" y="3264"/>
+  <object gid="121" x="3136" y="3264"/>
+  <object gid="121" x="3072" y="3264"/>
+  <object gid="121" x="3008" y="3264"/>
+  <object gid="121" x="2944" y="3264"/>
+  <object gid="121" x="2880" y="3264"/>
+  <object gid="121" x="2816" y="3264"/>
+  <object gid="121" x="2752" y="3264"/>
+  <object gid="121" x="2688" y="3264"/>
+  <object gid="121" x="2624" y="3264"/>
+  <object gid="121" x="2560" y="3264"/>
+  <object gid="121" x="2496" y="3264"/>
+  <object gid="120" x="2432" y="3264"/>
+  <object gid="114" x="2432" y="3200"/>
+  <object gid="114" x="2432" y="3136"/>
+  <object gid="114" x="2432" y="3072"/>
+  <object gid="114" x="2432" y="3008"/>
+  <object gid="114" x="2432" y="2880"/>
+  <object gid="114" x="2432" y="2944"/>
+  <object gid="114" x="2432" y="2816"/>
+  <object gid="114" x="2432" y="2752"/>
+  <object gid="114" x="2432" y="2688"/>
+  <object gid="114" x="2432" y="2624"/>
+  <object gid="113" x="3200" y="2560"/>
+  <object gid="114" x="3200" y="2624"/>
+  <object gid="114" x="3200" y="2688"/>
+  <object gid="114" x="3200" y="2752"/>
+  <object gid="114" x="3200" y="2816"/>
+  <object gid="114" x="3200" y="2880"/>
+  <object gid="115" x="3200" y="2880"/>
+  <object gid="117" x="3200" y="3008"/>
+  <object gid="114" x="3200" y="3072"/>
+  <object gid="114" x="3200" y="3136"/>
+  <object gid="114" x="3200" y="3200"/>
+  <object gid="118" x="2432" y="2560"/>
+  <object gid="121" x="2496" y="2560"/>
+  <object gid="121" x="2560" y="2560"/>
+  <object gid="121" x="2816" y="2560"/>
+  <object gid="121" x="2944" y="2560"/>
+  <object gid="121" x="3008" y="2560"/>
+  <object gid="121" x="3136" y="2560"/>
+  <object gid="121" x="3072" y="2560"/>
+  <object gid="121" x="2880" y="2560"/>
+  <object gid="119" x="2752" y="2560"/>
+  <object gid="112" x="2624" y="2560"/>
+ </objectgroup>
+ <objectgroup name="Doors" width="100" height="100" visible="0">
+  <object gid="267" x="2688" y="2624"/>
+  <object gid="266" x="2688" y="2560"/>
+ </objectgroup>
+</map>
